@@ -1,6 +1,8 @@
 # price
 An auto ricing script with a focus on P as in Performance, Productivity, and Practicality
 
+
+
 ## Features
 * Create a new user or use an existing one
 * Option to setup hostname and host IPs
