@@ -15,6 +15,7 @@ An auto ricing script with a focus on P as in Performance, Productivity, and Pro
 * NetworkManager
 * ttf-linux-libertine
 * ttf-fira-code
+* stow
 * mutt
 * neovim
 * light
@@ -33,4 +34,7 @@ An auto ricing script with a focus on P as in Performance, Productivity, and Pro
 * https://github.com/AndreVallestero/st.git
 * https://github.com/AndreVallestero/dwm.git
 * https://github.com/AndreVallestero/dwm-status.git
-* https://github.com/LukeSmithxyz/mutt-wizard
+* https://github.com/LukeSmithxyz/mutt-wizard.git
+
+### dotfiles:
+* https://github.com/AndreVallestero/dotfiles.git
