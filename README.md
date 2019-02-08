@@ -29,6 +29,7 @@ An auto ricing script with a focus on P as in Performance, Productivity, and Pra
 * calcurse
 
 ### aur packages:
+* yay
 * ttf-roboto-slab
 * ttf-roboto-mono
 * ttf-emojione
