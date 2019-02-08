@@ -19,6 +19,7 @@ An auto ricing script with a focus on P as in Performance, Productivity, and Pro
 * light
 * nnn
 * zathura
+* transmission-cli
 
 ### aur packages:
 * yay
