@@ -15,7 +15,7 @@ An auto ricing script with a focus on P as in Performance, Productivity, and Pro
 * ttf-symbola
 
 ## source packages:
-* https://github.com/AndreVallestero/dwm.git
 * https://github.com/AndreVallestero/dmenu.git
 * https://github.com/AndreVallestero/st.git
+* https://github.com/AndreVallestero/dwm.git
 * https://github.com/AndreVallestero/dwm-status.git
