@@ -17,6 +17,7 @@ An auto ricing script with a focus on P as in Performance, Productivity, and Pro
 * neovim
 * light
 * nnn
+* zathura
 
 ### aur packages:
 * yay
