@@ -5,6 +5,7 @@ An auto ricing script with a focus on P as in Performance, Productivity, and Pro
 * Create a new user or use an existing one
 * Option to setup auto-login after boot
 * Option to setup auto-startx after login
+* Option to generate a sorted mirrorlist
 
 ## Packages
 ### pacman packages:
