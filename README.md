@@ -13,13 +13,16 @@ An auto ricing script with a focus on P as in Performance, Productivity, and Pro
 * base-devel
 * git
 * NetworkManager
+* ttf-linux-libertine
+* ttf-fira-code
 * mutt
-* slock
 * neovim
 * light
 * nnn
 * zathura
-* transmission-cli
+* ncmpcpp
+* transmission
+* calcurse
 
 ### aur packages:
 * yay
@@ -30,3 +33,4 @@ An auto ricing script with a focus on P as in Performance, Productivity, and Pro
 * https://github.com/AndreVallestero/st.git
 * https://github.com/AndreVallestero/dwm.git
 * https://github.com/AndreVallestero/dwm-status.git
+* https://github.com/LukeSmithxyz/mutt-wizard
