@@ -1,7 +1,13 @@
 # price
 An auto ricing script with a focus on P as in Performance, Productivity, and Proficiency
 
-## pacman packages:
+## Features
+* Create a new user or use an existing one
+* Option to setup auto-login after boot
+* Option to setup auto-startx after login
+
+## Packages
+### pacman packages:
 * base
 * base-devel
 * git
@@ -10,11 +16,11 @@ An auto ricing script with a focus on P as in Performance, Productivity, and Pro
 * light
 * nnn
 
-## aur packages:
+### aur packages:
 * yay
 * ttf-symbola
 
-## source packages:
+### source packages:
 * https://github.com/AndreVallestero/dmenu.git
 * https://github.com/AndreVallestero/st.git
 * https://github.com/AndreVallestero/dwm.git
