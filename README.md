@@ -15,8 +15,7 @@ An auto ricing script with a focus on P as in Performance, Productivity, and Pra
 * base-devel
 * git
 * NetworkManager
-* ttf-linux-libertine
-* ttf-fira-code
+* ttf-roboto
 * stow
 * mutt
 * neovim
@@ -28,8 +27,9 @@ An auto ricing script with a focus on P as in Performance, Productivity, and Pra
 * calcurse
 
 ### aur packages:
-* yay
-* ttf-symbola
+* ttf-roboto-slab
+* ttf-roboto-mono
+* ttf-emojione
 
 ### source packages:
 * https://github.com/AndreVallestero/dmenu.git
