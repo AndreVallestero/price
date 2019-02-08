@@ -12,6 +12,7 @@ An auto ricing script with a focus on P as in Performance, Productivity, and Pro
 * base
 * base-devel
 * git
+* NetworkManager
 * slock
 * neovim
 * light
