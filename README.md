@@ -1,5 +1,5 @@
 # price
-An auto ricing script with a focus on P as in Performance, Productivity, and Proficiency
+An auto ricing script with a focus on P as in Performance, Productivity, and Practicality
 
 ## Features
 * Create a new user or use an existing one
@@ -32,7 +32,9 @@ An auto ricing script with a focus on P as in Performance, Productivity, and Pro
 ### source packages:
 * https://github.com/AndreVallestero/dmenu.git
 * https://github.com/AndreVallestero/st.git
+ * scrollback
 * https://github.com/AndreVallestero/dwm.git
+ * single tagset
 * https://github.com/AndreVallestero/dwm-status.git
 * https://github.com/LukeSmithxyz/mutt-wizard.git
 
