@@ -37,11 +37,12 @@ An auto ricing script with a focus on P as in Performance, Productivity, and Pra
 ### source packages:
 * https://github.com/AndreVallestero/dmenu.git
 * https://github.com/AndreVallestero/st.git
-    * scrollback
+    * scrollback (apply conflicts with mouse scroll)
     * anysize
 * https://github.com/AndreVallestero/dwm.git
     * fakefullscreen
-    * systray
+    * systray (apply conflicts)
+    * single_tagset (apply conflicts)
 * https://github.com/AndreVallestero/dwm-status.git
 * https://github.com/LukeSmithxyz/mutt-wizard.git
 
