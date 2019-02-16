@@ -10,6 +10,7 @@ An auto ricing script with a focus on P as in Performance, Productivity, and Pra
 * Option to setup auto-startx after login
 * Option to generate a sorted mirrorlist
 * Option to remove source packages from /usr/local/src after installing
+* Option to use /etc/ configuration files
 
 ## Packages
 ### pacman packages:
