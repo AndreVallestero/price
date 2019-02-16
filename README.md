@@ -19,6 +19,7 @@ An auto ricing script with a focus on P as in Performance, Productivity, and Pra
 * NetworkManager
 * ttf-roboto
 * stow
+* reflector
 * mutt
 * neovim
 * light
