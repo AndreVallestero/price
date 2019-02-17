@@ -21,6 +21,8 @@ An auto ricing script with a focus on P as in Performance, Productivity, and Pra
 * ttf-roboto
 * stow
 * reflector
+* qt5ct
+* qtconfig-qt4
 * mutt
 * neovim
 * light
