@@ -37,6 +37,7 @@ An auto ricing script with a focus on P as in Performance, Productivity, and Pra
 * ttf-roboto-slab
 * ttf-roboto-mono
 * ttf-emojione
+* slock-gruvbox (optional)
 
 ### source packages:
 * https://github.com/AndreVallestero/dmenu.git
