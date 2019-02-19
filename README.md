@@ -1,7 +1,7 @@
 # price
 An auto ricing script with a focus on P as in Performance, Productivity, and Practicality
 
-
+Heavily inspired and derived from [LARBS](https://github.com/LukeSmithxyz/LARBS)
 
 ## Features
 * Create a new user or use an existing one
@@ -23,6 +23,7 @@ An auto ricing script with a focus on P as in Performance, Productivity, and Pra
 * reflector
 * qt5ct
 * qtconfig-qt4
+* dunst
 * mutt
 * neovim
 * light
