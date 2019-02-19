@@ -21,6 +21,7 @@ Heavily inspired and derived from [LARBS](https://github.com/LukeSmithxyz/LARBS)
 * ttf-roboto
 * stow
 * reflector
+* pigz
 * qt5ct
 * qtconfig-qt4
 * dunst
