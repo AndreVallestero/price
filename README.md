@@ -28,6 +28,8 @@ Heavily inspired and derived from [LARBS](https://github.com/LukeSmithxyz/LARBS)
 * mutt
 * neovim
 * light
+* pulseaudio
+* pulsemixer
 * nnn
 * zathura
 * ncmpcpp
@@ -47,7 +49,6 @@ Heavily inspired and derived from [LARBS](https://github.com/LukeSmithxyz/LARBS)
     * scrollback (apply conflicts with mouse scroll)
     * anysize
 * https://github.com/AndreVallestero/dwm.git
-    * fakefullscreen
     * systray (apply conflicts)
     * single_tagset (apply conflicts)
 * https://github.com/AndreVallestero/dwm-status.git
