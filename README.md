@@ -50,7 +50,6 @@ Heavily inspired and derived from [LARBS](https://github.com/LukeSmithxyz/LARBS)
     * anysize
 * https://github.com/AndreVallestero/dwm.git
     * systray (apply conflicts)
-    * single_tagset (apply conflicts)
 * https://github.com/AndreVallestero/dwm-status.git
 * https://github.com/LukeSmithxyz/mutt-wizard.git
 
